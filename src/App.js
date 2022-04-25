@@ -2,10 +2,12 @@ import "./App.css";
 import Row from "./Row";
 import requests from "./request";
 import Banner from "./Banner";
+import Nav from "./Nav";
 
 function App() {
   return (
     <div className="App">
+      <Nav />
       {/* <h1>Hey CodeZee! Let's Build A Netflix clone Today</h1> */}
       <Banner />
       <Row

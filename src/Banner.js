@@ -52,7 +52,7 @@ function Banner() {
         {/* description */}
        
       </div>
-      < div className="banner__fadeBottom" />
+      < div className="banner_fadeBottom" />
     </header>
     
   );
